@@ -66,7 +66,6 @@ You can use any of the following publicly available video datasets for training 
 
 | Model Variant | Architecture | Accuracy | Dataset |
 |----------------|---------------|-----------|----------|
-| CNN + LSTM | Baseline sequential model | 94.3% | UCF50 |
 | CNN + LSTM + Attention | With self-attention enhancement | 96.8% | UCF101 |
 | Transfer Learning + Attention | Using VGG16 + GRU | 97.2% | UCF101 |
 
