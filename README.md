@@ -53,10 +53,7 @@ Video Input → CNN → LSTM → Self-Attention → Dense Layer → Output
 
 You can use any of the following publicly available video datasets for training and evaluation:
 
-- [UCF50 Dataset](https://www.crcv.ucf.edu/data/UCF50.php)
 - [UCF101 Dataset](https://www.crcv.ucf.edu/data/UCF101.php)
-- [UCSD Anomaly Detection Dataset](http://www.svcl.ucsd.edu/projects/anomaly/)
-- [Avenue Dataset](https://www.cvl.isy.liu.se/research/datasets/avenue/)
 
 > *Dataset files are not uploaded due to size limitations.*
 
@@ -72,7 +69,6 @@ You can use any of the following publicly available video datasets for training 
 *(Results may vary depending on preprocessing and tuning.)*
 
 ---
-
 ## 🖥️ How to Run the Project
 
 ### 1️⃣ Clone the repository
